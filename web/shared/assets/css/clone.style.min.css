@@ -1,0 +1,101 @@
+
+/* 
+    Created on : Mar 12, 2023, 4:24:40 PM
+    Author     : Giang Minh
+*/
+
+.main-nav>ul{
+    display:-webkit-box;
+    display:-webkit-flex;
+    display:-ms-flexbox;
+    display:flex;
+    -webkit-box-pack:center;
+    -webkit-justify-content:center;
+    -ms-flex-pack:center;
+    justify-content:center
+}
+.main-nav>ul>li{
+    display:inline-block
+}
+.main-nav>ul>li:not(:last-child){
+    padding-right:30px
+}
+.main-nav>ul>li a{
+    font-weight:500;
+    color:#fff;
+    display:-webkit-box;
+    display:-webkit-flex;
+    display:-ms-flexbox;
+    display:flex;
+    -webkit-box-align:center;
+    -webkit-align-items:center;
+    -ms-flex-align:center;
+    align-items:center;
+    padding-top:15px;
+    padding-bottom:15px;
+    font-size:17px
+}
+a:hover {
+    cursor: pointer
+}
+/*.main-nav>ul>li>a i{
+    margin-left:5px;
+    font-size:10px
+}*/
+/*.main-nav>ul>li:hover>.drop-menu{
+    top:100%;
+    opacity:1;
+    visibility:visible
+}
+.nav-tabs .dropdown-menu{
+    margin-top:-1px;
+    border-top-left-radius:0;
+    border-top-right-radius:0
+}*/
+
+/*.drop-holder{
+    position:relative
+}*/
+
+/*.nav-tabs{
+    border-bottom:1px solid #dee2e6
+}*/
+/*.nav-tabs .nav-link{
+    margin-bottom:-1px;
+    border:1px solid transparent;
+    border-top-left-radius:0.25rem;
+    border-top-right-radius:0.25rem
+}*/
+/*.nav-tabs .nav-link:hover,.nav-tabs .nav-link:focus{
+    border-color:#e9ecef #e9ecef #dee2e6
+}*/
+/*.nav-tabs .nav-link.disabled{
+    color:#6c757d;
+    background-color:transparent;
+    border-color:transparent
+}*/
+/*.nav-tabs .nav-link.active,.nav-tabs .nav-item.show .nav-link{
+    color:#495057;
+    background-color:#fff;
+    border-color:#dee2e6 #dee2e6 #fff
+}*/
+/*.nav-tabs .dropdown-menu{
+    margin-top:-1px;
+    border-top-left-radius:0;
+    border-top-right-radius:0
+}*/
+
+/*.dropdown-menu-dark .dropdown-item{
+    color:#dee2e6
+}
+.dropdown-menu-dark .dropdown-item:hover,.dropdown-menu-dark .dropdown-item:focus{
+    color:#fff;
+    background-color:rgba(255,255,255,0.15)
+}
+.dropdown-menu-dark .dropdown-item.active,.dropdown-menu-dark .dropdown-item:active{
+    color:#fff;
+    background-color:#bac34e
+}
+.dropdown-menu-dark .dropdown-item.disabled,.dropdown-menu-dark .dropdown-item:disabled{
+    color:#adb5bd
+}*/

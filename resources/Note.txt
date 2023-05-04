@@ -1,0 +1,2 @@
+* Các câu hỏi cần refer đến mabaithi để biết câu hỏi thuộc bài thi nào, hiện ra màn hình số câu đúng vs 
+số câu của bài thi, không lấy toàn bộ
